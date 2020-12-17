@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Report</string>
+    <string name="menu_gallery">Attendence</string>
+    <string name="menu_slideshow">Manual Attendence</string>
+    <string name="empR">Emp Register</string>
+    <string name="empList">Emp List</string>
+    <string name="department">Department</string>
+    <string name="shift">Shift</string>
+</resources>
